@@ -1,0 +1,5 @@
+﻿filas,duplicados_exactos,duplicados_por_clave,claves_usadas,duplicados_exactos_eliminados,base
+805,0,30,"['cui', 'cod_local']",0,PRONIED_INVERSIONES
+2118,0,1708,"['cod_local', 'cod_mod']",0,PRONIED_MODULAR_EQUIP
+140739,0,138519,"['cod_local', 'cod_mod']",0,PRONIED_MANTENIMIENTO
+8128,0,4462,['cod_local'],0,PRONIED_INSPECCIONES_AT
